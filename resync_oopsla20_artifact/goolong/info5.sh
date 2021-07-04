@@ -1,0 +1,9 @@
+export IPS=( \
+	REPLICA0 \
+	REPLICA1 \
+	REPLICA2 \
+	REPLICA3 \
+	REPLICA4 \
+	   )
+
+export DEFAULT_PORT="7070"
